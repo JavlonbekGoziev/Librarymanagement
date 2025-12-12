@@ -49,8 +49,8 @@ The system supports:
 ## Screenshots
 
 ```markdown
-!("C:\Users\Javlonbek\Desktop\screenshots\1.png")
-!("C:\Users\Javlonbek\Desktop\screenshots\2.png")
-!("C:\Users\Javlonbek\Desktop\screenshots\3.png")
-!("C:\Users\Javlonbek\Desktop\screenshots\4.png")
-!("C:\Users\Javlonbek\Desktop\screenshots\5.png")
+<img src="screenshots/1.png" width="600"/>
+<img src="screenshots/2.png" width="600"/>
+<img src="screenshots/3.png" width="600"/>
+<img src="screenshots/4.png" width="600"/>
+<img src="screenshots/5.png" width="600"/>
