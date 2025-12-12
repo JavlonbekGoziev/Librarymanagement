@@ -49,7 +49,7 @@ The system supports:
 ## Video
 
 
-![Return Book](video.mp4)
+![video](video.mp4)
 
 
 ## Screenshots
