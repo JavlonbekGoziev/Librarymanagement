@@ -48,7 +48,6 @@ The system supports:
 
 ## Screenshots
 
-```markdown
 ![Main Menu](1.png)
 ![Add Book](2.png)
 ![View Books](3.png)
