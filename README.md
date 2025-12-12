@@ -49,8 +49,8 @@ The system supports:
 ## Screenshots
 
 ```markdown
-<img src="1.png" width="600"/>
-<img src="2.png" width="600"/>
-<img src="3.png" width="600"/>
-<img src="4.png" width="600"/>
-<img src="5.png" width="600"/>
+<img src="https://github.com/JavlonbekGoziev/Librarymanagement/raw/main/1.png" width="600"/>
+<img src="https://github.com/JavlonbekGoziev/Librarymanagement/raw/main/2.png" width="600"/>
+<img src="https://github.com/JavlonbekGoziev/Librarymanagement/raw/main/3.png" width="600"/>
+<img src="https://github.com/JavlonbekGoziev/Librarymanagement/raw/main/4.png" width="600"/>
+<img src="https://github.com/JavlonbekGoziev/Librarymanagement/raw/main/5.png" width="600"/>
