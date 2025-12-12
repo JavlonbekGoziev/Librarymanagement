@@ -49,9 +49,9 @@ The system supports:
 ## Screenshots
 
 ```markdown
-<img src="./1.png" width="600">
-<img src="./2.png" width="600">
-<img src="./3.png" width="600">
-<img src="./4.png" width="600">
-<img src="./5.png" width="600">
+![Main Menu](1.png)
+![Add Book](2.png)
+![View Books](3.png)
+![Borrow Book](4.png)
+![Return Book](5.png)
 
