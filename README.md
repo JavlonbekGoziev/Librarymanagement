@@ -48,6 +48,7 @@ The system supports:
 
 ## Video
 
+You can download and watch the video by clicking on it.
 
 ![video](video.mp4)
 
