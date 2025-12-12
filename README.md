@@ -49,8 +49,16 @@ The system supports:
 ## Screenshots
 
 ![Main Menu](1.png)
+
+
 ![Add Book](2.png)
+
+
 ![View Books](3.png)
+
+
 ![Borrow Book](4.png)
+
+
 ![Return Book](5.png)
 
